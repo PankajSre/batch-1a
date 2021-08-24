@@ -3,5 +3,7 @@ public class Manager {
       System.out.println("Hello from Manager");
 	  System.out.println("Hello from Manager Again");
 	  System.out.println("Git Repository");
+	  System.out.println("For Jenkins");
+	  
    }
 }
