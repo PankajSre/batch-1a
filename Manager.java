@@ -5,7 +5,7 @@ public class Manager {
 	  System.out.println("Git Repository");
 	  System.out.println("For Jenkins");
 	  System.out.println("With the help of WebHook");
-	  System.out.println("For auto triggering");
+	  System.out.println("For auto triggering the changes");
 	  
    }
 }
